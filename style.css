@@ -1,0 +1,16 @@
+body{
+    background-image: url("spot-light-background-vector-3622644.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.save{
+    font-size: 22px;
+    margin-top: 15px;
+    
+}
+#dig{
+    height: 450px;
+    width: 0px;
+
+    margin-top: 20%;
+}
